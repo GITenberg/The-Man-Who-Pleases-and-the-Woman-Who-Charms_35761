@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37883'
     url: http://www.gutenberg.org/2009/agents/37883
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35761#The-Man-Who-Pleases-and-the-Woman-Who-Charms
 gutenberg_issued: '2011-04-03'
 gutenberg_type: Text
 identifiers:
